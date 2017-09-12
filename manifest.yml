@@ -1,0 +1,6 @@
+---
+applications:
+- name: temp-ont-skateparks
+  memory: 512M
+  instances: 1
+  # random-route: true
